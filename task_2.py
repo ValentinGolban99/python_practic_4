@@ -17,6 +17,7 @@ for i in text:
         print(f"Символ '*' стоит на позиции {count}")
         break
 
+
     
 
 
